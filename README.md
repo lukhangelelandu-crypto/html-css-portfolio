@@ -2,7 +2,7 @@
 
 ## Project Description
 This is my beginner HTML & CSS portfolio project. 
-It introduces whi I am, showmcase my skills, and higlights my learning journey as a web development student.
+It introduces who I am, showcase my skills, and higlights my learning journey as a web development student.
 
 ## Purpose
 The purpose of this website is to demonstrate my understanding of HTML and CSS concepts, while creating something personal and creative that reflects my style and goals.
